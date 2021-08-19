@@ -95,3 +95,8 @@ http://182.52.51.215/scripts/23.sh
 http://182.52.51.215/scripts/23
 http://182.52.51.215/scripts/23s
 http://182.52.51.215/scripts/238
+http://45.61.188.184/mips.tsunami
+http://45.61.188.184/mipsel.tsunami
+http://45.61.188.184/i586.tsunami
+http://45.61.188.184/arm5.tsunami
+http://45.61.188.184/arm7.tsunami

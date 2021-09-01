@@ -53,6 +53,9 @@ http://45.133.9.32/i586
 http://172.245.210.142/messiahmessiahbins.sh
 http://helpdeskserver.epelcdn.com/dd210131/init.sh
 http://185.181.10.234/E5DB0E07C3D7BE80V520/init.sh 
+http://45.9.148.37/E5DB0E07C3D7BE80V201007/init.sh
+https://de.gsearch.com.de/api/sysupdate
+http://45.9.148.37/E5DB0E07C3D7BE80V201007/sysupdate
 http://176.123.7.127/id210131/phpupdate
 http://h.epelcdn.com/dd210131/phpupdate
 http://185.150.117.103/w.sh
@@ -187,3 +190,4 @@ http://45.61.188.184/re/r.arm7
 http://45.61.188.184/f.sh sh4
 http://45.61.188.184/re/r.mpsl
 http://107.175.69.166/0K4N3.sh
+http://159.65.220.73/beastmode/b3astmode.arm7
